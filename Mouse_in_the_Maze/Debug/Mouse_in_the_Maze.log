@@ -1,0 +1,26 @@
+﻿  Game.cpp
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(18,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(76,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(125,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(164,30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(171,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(223,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(254,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(721,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(736,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(751,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(766,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(781,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(1012,15): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(1013,15): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(1034,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(1038,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Mouse_in_the_Maze\Game.cpp(1058,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Mouse_in_the_Maze.vcxproj -> C:\Users\Predator_Sheyt\source\repos\Mouse_in_the_Maze\Debug\Mouse_in_the_Maze.exe
